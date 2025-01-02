@@ -1,4 +1,4 @@
-package com.app.bekiniCity;
+package api.app.bekiniCity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

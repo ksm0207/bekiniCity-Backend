@@ -1,4 +1,4 @@
-package com.app.bekiniCity;
+package api.app.bekiniCity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
