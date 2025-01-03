@@ -1,6 +1,5 @@
 package api.app.bekiniCity.repository;
 
-
 import api.app.bekiniCity.entity.Board;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
